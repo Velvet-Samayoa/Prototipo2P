@@ -1,0 +1,18 @@
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Home\source\repos\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Home\Documents\TAREAS 2\OCTAVO SEMESTRE\Análisis de sistemas 2\segundo parcial\Práctica MVC\CapacitacionDeGit_GitHub\Proyecto MVC\CapaControlador\obj\Debug\CapaControlador.pdb
